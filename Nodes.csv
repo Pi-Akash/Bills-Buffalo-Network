@@ -1,0 +1,12 @@
+Name,Identification,title,label,color,shape,size
+A,Student,A,A,#F29F05,dot,15
+University at Buffalo,University,University at Buffalo,University at Buffalo,#F28D77,dot,30
+E,Professional,E,E,#D96704,hexagon,15
+Tech Firm 2,Firm,Tech Firm 2,Tech Firm 2,#F2B05E,dot,30
+B,Student,B,B,#F29F05,dot,15
+Buffalo State College,University,Buffalo State College,Buffalo State College,#F28D77,dot,30
+C,Student,C,C,#F29F05,dot,15
+D,Student,D,D,#F29F05,dot,15
+L,Student,L,L,#F29F05,dot,15
+Z,Student,Z,Z,#F29F05,dot,15
+Kalyan,Student,Kalyan,Kalyan,#F29F05,dot,15

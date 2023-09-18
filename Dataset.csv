@@ -1,0 +1,12 @@
+Name,Identification,Current Status,Looking for Job or Internship,Major,Tech Firm Name,Tech Firm Type,University Name,Club/Association,Contact,Attribute1,Attribute2,Attribute3,Record Timestamp,Record Status
+A,Student,Senior,Yes,Computer Science Engineering,,,University at Buffalo,Chess,A@buffalo.edu,Java,Python,C++,2023-09-17 19:33:19.694598,New
+University at Buffalo,University,,,,,,,,someone@buffalo.edu,Engineering,Law,Natural Sciences,2023-09-17 19:33:41.944320,New
+E,Professional,,,Management Information Systems,Tech Firm 2,Engineering,Buffalo State College,,E@TechFirm_2.com,Market Analysis,Product Strategy,Client Relations,2023-09-17 19:47:01.904045,New
+Tech Firm 2,Firm,,,,,,,,Someone@Tech_Firm2.com,Management,Engineering,Hardware,2023-09-17 19:49:19.201205,New
+B,Student,Sophomore,Yes,Electrical Engineering,,,Buffalo State College,,B@buffalo_state.edu,MATLAB,Data Analysis,Process Simulation,2023-09-17 19:53:53.234189,New
+Buffalo State College,University,,,,,,,,someone@buffalo_state.edu,Management,Physical Sciences,Others,2023-09-17 19:57:28.146810,New
+C,Student,Sophomore,Yes,Biomedical Engineering,,,University at Buffalo,Chess,C@buffalo.edu,Data Analysis,MATLAB,Project Management,2023-09-17 19:59:22.724019,New
+D,Student,Senior,No,Mechanical Engineering,,,University at Buffalo,Soccer,D@buffalo.edu,AutoCAD,Automation,SOLIDWORKS,2023-09-17 20:00:37.849656,New
+L,Student,Sophomore,Yes,Physical Health Sciences,,,Buffalo State College,Cake,l@buffalo_state.edu,Physical Therapy,Rehabilitation,CPR,2023-09-17 20:02:55.115344,New
+Z,Student,Graduate Student,Yes,Computer Science Engineering,,,University at Buffalo,Coding,Z@buffalo.edu,Python,MATLAB,MySQL,2023-09-17 21:34:24.581946,New
+Kalyan,Student,Graduate Student,Yes,MPS Data Science,,,University at Buffalo,,Kalyan@buffalo.edu,Python,Data Warehousing,Data Visualization,2023-09-17 21:44:44.453292,New
